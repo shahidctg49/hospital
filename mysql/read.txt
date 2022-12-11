@@ -1,0 +1,134 @@
+categories 
+    >Department
+    >Designation 
+    >
+
+Exeption 
+    >
+
+
+********** Doctors department ********
+
+Allergists/Immunologists
+
+Anesthesiologists
+
+Cardiologists
+
+Colon and Rectal Surgeons
+
+Critical Care Medicine Specialists
+
+
+
+Endocrinologists
+
+Emergency Medicine Specialists
+
+Family Physicians
+
+Gastroenterologists
+
+Geriatric Medicine Specialists
+
+Hematologists
+
+Hospice and Palliative Medicine Specialists
+
+Infectious Disease Specialists
+
+Internists
+
+Medical Geneticists
+
+Nephrologists
+
+Neurologists
+
+Obstetricians and Gynecologists
+
+Oncologists
+
+Ophthalmologists
+
+Osteopaths
+
+Otolaryngologists
+
+Pathologists
+
+Pediatricians
+
+Physiatrists
+
+Plastic Surgeons
+
+Podiatrists
+
+Preventive Medicine Specialists
+
+Psychiatrists
+
+Pulmonologists
+
+Radiologists
+
+Rheumatologists
+
+Sleep Medicine Specialists
+
+Sports Medicine Specialists
+
+General Surgeons
+
+Urologists
+
+
+************************************
+
+**************test ******************
+AIDS-related malignancies
+Angiogenesis
+Antimicrobial resistance
+CNS infections
+Cytokines
+Diseases of travelers / Tropical medicine
+Drug combinations
+Drug toxicity
+Emerging and re-emerging infections
+Experimental models
+Gastrointestinal infections
+Gene therapy
+Genome analysis in cancer and infectious diseases
+HIV / AIDS
+Hepatitis
+Immunotherapy
+Infection control
+Infections and cancer
+Infections and chronic diseases
+Infections and immunocompromised patients
+Influenza
+Malaria
+Molecular diagnosis methods
+Mycobacterial diseases other than TB
+New anticancer drugs
+New antimicrobial agents and drug discovery
+New vaccines and biologicals
+Nosocomial infections
+Opportunistic infections in HIV / AIDS
+Other diagnostic tools for infectious diseases
+Other respiratory tract infections
+Other tropical diseases
+Parasitic infections
+Pathogenesis
+Pneumonia
+Prevention / prophylaxis of infections
+Sepsis and septic shock
+Serodiagnostic tools for infectious diseases
+Sexually transmitted diseases
+Supportive and palliative therapy
+Surgical infections
+Transplantation
+Tuberculosis
+Urinary tract infections
+Viral infections
